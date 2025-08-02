@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# React Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+minor debugging to follow to allow conditional rendering to work securely
